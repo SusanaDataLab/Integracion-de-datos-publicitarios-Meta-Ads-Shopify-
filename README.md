@@ -156,4 +156,4 @@ Todas se calculan con medidas DAX que dividen sumas, nunca promediando ratios.
 
 ---
 
-Proyecto de práctica de Business Intelligence realizado por **Susana**. Los datos son simulados.
+Proyecto de Business Intelligence realizado por **Susana**. 
