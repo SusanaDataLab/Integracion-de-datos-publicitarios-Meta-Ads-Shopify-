@@ -1,0 +1,16 @@
+product_id,product_name,categoria,precio,costo_unitario,campaign_id
+P-1001,Vestido Lino,Vestidos,59.0,21.0,CMP-101
+P-1002,Vestido Midi Floral,Vestidos,72.0,26.0,CMP-101
+P-1003,Vestido Satin,Vestidos,89.0,38.0,CMP-101
+P-2001,Blusa Seda,Blusas,48.0,17.0,CMP-102
+P-2002,Pantalón Sastre,Pantalones,64.0,24.0,CMP-102
+P-3001,Camiseta Logo,Básicos,22.0,11.0,CMP-103
+P-3002,Sudadera Logo,Básicos,45.0,23.0,CMP-103
+P-4001,Sandalia Cuero,Calzado,55.0,20.0,CMP-104
+P-4002,Sandalia Plataforma,Calzado,68.0,27.0,CMP-104
+P-5001,Aretes Dorados,Accesorios,25.0,6.0,CMP-105
+P-5002,Collar Perlas,Accesorios,34.0,9.0,CMP-105
+P-6001,Bolso Tote,Bolsos,79.0,36.0,CMP-106
+P-6002,Bolso Bandolera,Bolsos,65.0,31.0,CMP-106
+P-9001,Gift Card,Otros,50.0,45.0,
+P-9002,Calcetines Pack,Otros,15.0,5.0,
